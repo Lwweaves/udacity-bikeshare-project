@@ -15,4 +15,4 @@ Written in Python3.
 7. What are the most common birth years? Most recent? Earliest?
 
 ## Downloading and Running the Program
-The program can be downloaded and run by using the command 'python3 udacity-bikeshare-project.py' in your terminal.
+The program can be downloaded and run by using the command 'python3 final_project.py' in your terminal.
